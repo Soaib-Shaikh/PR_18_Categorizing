@@ -6,7 +6,7 @@
 
 ![alt text](./output/image2.png)
 
-3. Nerge Sort
+3. Merge Sort
 
 ![alt text](./output/image3.png)
 
